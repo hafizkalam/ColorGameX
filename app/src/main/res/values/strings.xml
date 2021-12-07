@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">APLAS COLOR GAME</string>
+    <string name="keyword">quiz@123</string>
+    <string name="minScore">0</string>
+    <string name="maxScore">100</string>
+    <string name="counter">10</string>
+    <string name="mintimer">0</string>
+    <string name="maxtimer">5</string>
+
+    <string-array name="colorList">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Purple</item>
+    </string-array>
+
+    <string-array name="charList">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+    <integer name="minScore" />
+    <integer name="maxScore" />
+    <integer name="maxtimer" />
+    <integer name="counter" />
+</resources>
